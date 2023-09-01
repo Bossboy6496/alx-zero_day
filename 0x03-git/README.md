@@ -1,0 +1,1 @@
+I'm now a ALX Student, this is my first directory for git in the zero-alx_project as a full-stack engineer
